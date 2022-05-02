@@ -1,1 +1,2 @@
 # Cryptocurrencies
+The module 18 challenge titled "Cryptocurrencies" was designed to utilize unsupervised learning techniques including processing data, clustering, reducing dimension, and utilizing PCA. The goal was to inform clients related to opportunities and challenges in the cryptocurrency market. Specifically, Accountability Accounting is looking to offer a new cryptocurrency investment portfolio to customers and needs information about various cryptocurrencies on the trading market. 
